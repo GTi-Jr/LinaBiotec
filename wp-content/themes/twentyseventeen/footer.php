@@ -15,6 +15,19 @@
 ?>
 
 		</div><!-- #content -->
+		<!-- importante -->
+		<div class="rodape">
+			<ul style="list-style: none;">
+				<li>
+					Endereço: Av. Humberto Monte, Campus do Pici	
+				</li>
+				<li>
+					Fortaleza, Ceará	
+				</li>
+			</ul>
+		<div>
+		<!-- importante -->
+
 
 		<footer id="colophon" class="site-footer" role="contentinfo">
 			<div class="wrap">
@@ -42,6 +55,6 @@
 	</div><!-- .site-content-contain -->
 </div><!-- #page -->
 <?php wp_footer(); ?>
-
+	
 </body>
 </html>

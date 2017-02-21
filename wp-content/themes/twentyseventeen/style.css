@@ -4233,3 +4233,18 @@ object {
 		padding: 0;
 	}
 }
+
+
+/* --------------CSS GTi-------------- */
+.parceiros {
+	max-width: 600px;
+	max-height: 375px;
+	margin: auto;
+	text-align: center;
+}
+
+.rodape {
+	text-align: center;
+	list-style-type: none;
+}
+
