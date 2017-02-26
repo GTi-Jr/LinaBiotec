@@ -4253,3 +4253,7 @@ object {
 	max-height: 303px;
 	margin: auto;
 }
+
+.entry-title {
+	display: none;
+}
