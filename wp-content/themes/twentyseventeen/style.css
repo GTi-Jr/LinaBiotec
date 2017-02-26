@@ -4248,3 +4248,8 @@ object {
 	list-style-type: none;
 }
 
+.formulario {
+	max-width: 314px;
+	max-height: 303px;
+	margin: auto;
+}
