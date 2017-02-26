@@ -49,7 +49,7 @@ get_header(); ?>
 
 		else :
 
-			get_template_part( 'template-parts/post/content', 'none' );
+			get_template_part( 'none', 'none' );
 
 		endif; ?>
 
